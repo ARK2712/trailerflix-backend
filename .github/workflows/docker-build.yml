@@ -26,4 +26,4 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: |
-            ark2712/trailerflix-backend:dev-latest
+            arkhalid/trailerflix-backend:dev-latest
